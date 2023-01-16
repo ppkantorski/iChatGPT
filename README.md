@@ -8,7 +8,7 @@ Welcome to the ChatGPT interactive shell, a powerful tool that allows you to int
     - BeautifulSoup4
     - Html2Text
     - Pygments
-    - WebDriver for Chrome
+    - Undetected Chromedriver
 - Once you have all of these installed, you can clone this repository and run the main.py file.
 
 ## Usage
