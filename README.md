@@ -1,7 +1,7 @@
-## ChatGPT Interactive Shell
+# ChatGPT Interactive Shell
 Welcome to the ChatGPT interactive shell, a powerful tool that allows you to interact with the OpenAI's GPT-3 language model in real-time. With this shell, you can easily run code, save code, upload code, and stream conversations all through the command line.
 
-# Getting Started
+## Getting Started
 - To get started, you will need to have the following installed:
     - Python 3
     - Selenium
@@ -11,7 +11,7 @@ Welcome to the ChatGPT interactive shell, a powerful tool that allows you to int
     - WebDriver for Chrome
 - Once you have all of these installed, you can clone this repository and run the main.py file.
 
-# Usage
+## Usage
 - The shell provides several commands for interacting with the GPT-3 model. Here is a list of all the commands:
     - code: Prints the current code.
     - clear: Clears the current code.
@@ -25,7 +25,7 @@ Welcome to the ChatGPT interactive shell, a powerful tool that allows you to int
     - reload: Reloads the page.
     - help: Prints this help page.
 
-# Examples
+## Examples
 - Here are a few examples of how you can use the shell:
     - To print the current code: code
     - To clear the current code: clear
