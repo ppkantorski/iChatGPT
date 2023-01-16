@@ -13,17 +13,17 @@ Welcome to the ChatGPT interactive shell, a powerful tool that allows you to int
 
 ## Usage
 - The shell provides several commands for interacting with the GPT-3 model. Here is a list of all the commands:
-    - code: Prints the current code.
-    - clear: Clears the current code.
-    - run: Runs the current code.
-    - upload: Uploads the current code.
-    - save: Saves the current code.
-    - chat [num]: Selects a chat by index.
-    - stream: Streams the conversation.
-    - stop: Stops the conversation.
-    - quit: Exits the program.
-    - reload: Reloads the page.
-    - help: Prints this help page.
+    - code:             Prints the current code.
+    - clear:            Clears the current code.
+    - run:              Runs the current code.
+    - upload:           Uploads the current code.
+    - save:             Saves the current code.
+    - chat [num]:       Selects a chat by index.
+    - stream:           Streams the conversation.
+    - stop:             Stops the conversation.
+    - quit:             Exits the program.
+    - reload:           Reloads the page.
+    - help:             Prints this help page.
 
 ## Examples
 - Here are a few examples of how you can use the shell:
