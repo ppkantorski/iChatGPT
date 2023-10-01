@@ -1,5 +1,6 @@
 # iChatGPT - ChatGPT Interactive Shell 
 (project may be outdated / in need of updates)
+
 Welcome to the ChatGPT interactive shell, a powerful tool that allows you to interact with the OpenAI's GPT-3 language model in real-time. With this shell, you can easily run code, save code, upload code, and stream conversations all through the command line.
 
 ## Getting Started
